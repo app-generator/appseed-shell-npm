@@ -1,5 +1,5 @@
 function hello() {
-	console.log('AppSeed CLI');
+	console.log('AppSeed JS CLI');
 }
 
 module.exports = {
