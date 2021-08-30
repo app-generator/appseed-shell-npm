@@ -1,0 +1,25 @@
+{
+    "name": "appseed-shell",
+    "version": "0.0.1",
+    "description": "Node JS interface to AppSeed Tooling",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "node",
+        "package",
+        "appseed",
+        "cli"
+    ],
+    "author": "Appseed.us",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/app-generator/appseed-shell-npm.git"
+    },
+    "bugs": {
+        "url": "https://github.com/app-generator/appseed-shell-npm/issues"
+    },
+    "homepage": "https://appseed.us"
+}
