@@ -50,5 +50,7 @@ test.hello();
 
 @MIT License
 
+<br />
+
 ---
 AppSeed Shell (JS Interface) - provided by AppSeed [App Generator](https://appseed.us)
